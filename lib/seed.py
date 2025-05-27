@@ -4,6 +4,8 @@
 from models import Company, Dev, Freebie
 from database import session
 
+
+
 c1 = Company(name="Google", founding_year=1998)
 c2 = Company(name="Microsoft", founding_year=1975)
 
